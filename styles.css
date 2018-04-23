@@ -1,17 +1,39 @@
 body{
-  background-image: url(http://sm.ign.com/ign_za/news/j/james-came/james-cameron-gives-avatar-update-we-cant-afford-for-it-not_c1t4.jpg);
-  color: white
+  color: black;
+  background: #fff;
   }
 h1{
   text-align: center;
   font-size: 48px;
   }
+  .menu{
+    height: 40px;
+    width: auto;
+    position: relative;
+    top: 50%
+  }
+  .menu ul li{
+    display: inline-block;
+    line-height: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 20px;
+    text-align: center;
+  }
 h2{
   text-align: center;
   font-size: 48px;
   }
+  .banner{
+    position: relative;
+    height: auto;
+    width: 100%;
+  }
 img{
-  float: right;
+  position: relative;
+  height: auto;
+  width: 100%;
 }
 h1{
   font-style: italic;
