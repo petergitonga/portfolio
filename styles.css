@@ -40,9 +40,10 @@ ul{
   font-size: 24px;
 }
 body{
-  background: url("images/walrus.jpg")
+  background: url("images/walrus.jpg");
 
 }
 p,h1,h2{
   color: white;
+  font-style: italic;
 }
