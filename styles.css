@@ -52,3 +52,6 @@ p,h1,h2{
 strong{
   color: red;
 }
+.me:hover{
+  opacity: 0.5;
+}
